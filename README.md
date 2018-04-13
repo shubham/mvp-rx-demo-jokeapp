@@ -30,3 +30,6 @@ let's sse hwat happpens
 
 
 testing
+
+testign without merging the master into feature/test ,
+after git pull --rebase then i will just merge the branch feature/test and then push the master
