@@ -33,3 +33,7 @@ testing
 
 testign without merging the master into feature/test ,
 after git pull --rebase then i will just merge the branch feature/test and then push the master
+
+
+teting again pull-rebase before pushing but after merging feature/test-2 branch
+in master
