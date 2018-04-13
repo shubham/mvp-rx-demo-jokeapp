@@ -16,3 +16,17 @@ Problem is: I have to Push my commits and Merge to Master so which approach will
 
 2)I check out master and git pull with rebasing the master and then Checkout Branch A and Push my commits to Branch A and then Checkout Master and merge Branch A in Master and Push the Master.
 
+
+
+Trying creating a new Branch feature/test 
+
+1) will do some edit in Readme file and in local feature/test branch will add some some files
+2)will commit and push readme file in Master
+3)Will commit new file in feature/test branch, no push 
+4) then i will checkout to master and then do a git pull --rebase will see what happen after that
+5) after that merge the feature/test branch in develop and master 
+6) push both bracnches
+let's sse hwat happpens
+
+
+testing
